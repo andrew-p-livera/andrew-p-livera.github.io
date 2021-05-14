@@ -1,0 +1,22 @@
+.navbar {
+	font-family: 'Merriweather Sans', serif;
+	font-size: 26px;
+}
+
+.navbar-brand {
+	font-family: 'Berkshire Swash', cursive;
+	font-size: 32px;
+}
+
+a {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Merriweather', serif;
+}
+
+p {
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 21px;
+}

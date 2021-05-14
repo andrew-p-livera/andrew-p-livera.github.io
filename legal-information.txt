@@ -1,0 +1,32 @@
+Foreword
+-------------------------------------------------------------------------------------------------------------------------
+
+The contents of this website are the property of Andrew P. Livera or they are used under their respective licenses (like the MIT License).
+
+-------------------------------------------------------------------------------------------------------------------------
+Code
+-------------------------------------------------------------------------------------------------------------------------
+
+This website uses the front-end framework Bootstrap https://getbootstrap.com/ under the MIT License https://github.com/twbs/bootstrap/blob/main/LICENSE
+
+If this website uses any code from the Bootstrap documentation https://getbootstrap.com/docs/, then that code is used under CC BY 3.0 https://creativecommons.org/licenses/by/3.0/ and all changes made from the previously mentioned code are apparent, if any changes were made at all.
+
+This website uses a contact form from Formspree https://formspree.io/ under their terms of use https://formspree.io/legal/terms-of-service
+
+This website uses jQuery https://jquery.com/ under the following license https://jquery.org/license/
+
+-------------------------------------------------------------------------------------------------------------------------
+Fonts
+-------------------------------------------------------------------------------------------------------------------------
+
+This website uses the font Merriweather https://fonts.google.com/specimen/Merriweather from Google Fonts https://fonts.google.com under the SIL Open Font License https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
+
+This website uses the font Merriweather Sans https://fonts.google.com/specimen/Merriweather+Sans from Google Fonts https://fonts.google.com under the SIL Open Font License https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
+
+This website uses the font Berkshire Swash https://fonts.google.com/specimen/Berkshire+Swash from Google Fonts https://fonts.google.com under the SIL Open Font License https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
+
+-------------------------------------------------------------------------------------------------------------------------
+Icons and Images
+-------------------------------------------------------------------------------------------------------------------------
+
+This website uses favicons ('android-chrome-192x192.png', 'android-chrome-512x512.png', 'apple-touch-icon.png', 'favicon-16x16.png', 'favicon-32x32.png', 'favicon.ico', and 'site.webmanifest') that use the font Berkshire Swash and were generated from favicon.io https://favicon.io/ under their terms of use https://favicon.io/terms-of-use/
